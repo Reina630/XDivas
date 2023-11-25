@@ -1,0 +1,18 @@
+#menu_b_top,#escort_timetable_long, .breadcrumbslist,.rating_bloc,.logo_bar,#call_to_action,.certified,.bubble, #banner_file_top,#lang,#report_problem,#link_social,.review_side,.usefull_links,.hide_on_print, .btn-clic-on-phone,#giftsparea,#followarea,#likearea, #recent_view, .hidden_phone_span1{display:none !important;}
+.img_bg_nobread{display:block}
+.phone_top{display:block !important}
+.short_descr{padding:0 !important}
+.img_bloc_4_file, .img_bloc_5_file, .img_bloc_6_file, .img_bloc_7_file, .img_bloc_8_file, .img_bloc_9_file,.img_bloc_10_file, .img_bloc_11_file, .img_bloc_12_file, .img_bloc_13_file, .img_bloc_14_file, .img_bloc_15_file, .img_bloc_16_file, .img_bloc_17_file, .img_bloc_18_file, .img_bloc_19_file, .img_bloc_20_file{display:none !important;}
+#informations td{padding:0 !important}
+html,footer,body,.file_inner_div{background-color:white !important;color:black !important;border:none !important}
+.col-sm-3{width:33%;float:left}
+.col-sm-title{width:100%;float:left}
+.col-xs-6{padding:0 !important}
+.file_inner_div,#schedule,#comments,#description,#informations,#txt_descr{padding-top:0 !important;padding-bottom:0 !important}
+footer{border-top:solid 1px grey !important;margin-top:20px !important;padding-top:10px !important;padding-bottom:0 !important}
+#informations .file_inner_div .hidden_phone_span1{display:inline-block !important}
+.container, .file_inner_div{padding:0 !important}
+.image-cat-box,.img_square_in_file{border:none !important}
+.short_descr:after{content:'';display:block;clear:both}
+.contact_title{width:50% !important;}
+#escort_timetable_short{display:inline !important}
